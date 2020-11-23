@@ -131,7 +131,6 @@ adb install "apk/andotp.apk" > CON
 adb install "apk/music.apk" > CON
 adb install "apk/phone.apk" > CON
 adb install "apk/briar.apk" > CON
-adb install "apk/brave.apk" > CON
 adb install "apk/camera.apk" > CON
 adb install "apk/gallery.apk" > CON
 adb install "apk/notes.apk" > CON
@@ -140,7 +139,6 @@ adb install "apk/ddg.apk" > CON
 adb install "apk/clock.apk" > CON
 adb install "apk/store.apk" > CON
 adb install "apk/vlc.apk" > CON
-adb install "apk/libreoffice.apk" > CON
 adb install "apk/mupdf.apk" > CON
 adb install "apk/calculator.apk" > CON
 adb install "apk/edslite.apk" > CON
