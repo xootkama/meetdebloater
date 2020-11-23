@@ -23,7 +23,7 @@ A script that uninstall all samsung bloatware and proprietary stock apps and rep
 7. Leave Phone for 5 minutes until the process completes.
 8. Enjoy your highly private samsung device with no google or samsung crap.
 
-<strong> A Factory reset is not necessary but still recommended. If you perform fectory reset be sure not to skip google login </strong>
+<strong> A Factory reset is not necessary but still recommended. If you perform factory reset and be sure to skip google login </strong>
 
 <h2> Will this work on Mac or Linux </h2>
  To be honest I don't have a mac but I do have a linux pc though I have not tested on it yet.
