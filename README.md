@@ -1,9 +1,9 @@
 # MS Privacy Debloater
-A script that uninstall all samsung bloatware and proprietary stock apps and replace them with foss alternatives using adb
+A script that uninstall all Android bloatware and proprietary stock apps and replace them with foss alternatives using adb
 
 
 <h2> So what does this tool does ? </h2>
- This tool basically uses adb and uninstall all the bloatware found in samsung devices including gapps and replace all of them
+ This tool basically uses adb and uninstall all the bloatware found in Android devices including gapps and replace all of them
  with FOSS alternatives taken directly from F-Droid store.It also replace stock apps like phone,camera,messages etc with foss apps 
  like simple dialer, simple camera, QKSMS and more.
 
@@ -37,5 +37,7 @@ A script that uninstall all samsung bloatware and proprietary stock apps and rep
 <h2> Will this work on Mac or Linux </h2>
  To be honest I don't have a mac but I do have a linux pc though I have not tested on it yet.
  If it works I will surely update the script here.
+
+<p style="color:red"> Only Samsung and Mi list are currently Supported </p>
  
 <strong> Don't hesitate to open issues. Thank you </strong>
