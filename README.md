@@ -6,6 +6,15 @@ A script that uninstall all samsung bloatware and proprietary stock apps and rep
  This tool basically uses adb and uninstall all the bloatware found in samsung devices including gapps and replace all of them
  with FOSS alternatives taken directly from F-Droid store.It also replace stock apps like phone,camera,messages etc with foss apps 
  like simple dialer, simple camera, QKSMS and more.
+
+<h2> Why I created this tool ? </h2>
+ In modern world we are constantly surrounded by the big five known as GAFAM (Google,Amazon.Facebook,Apple,Microsoft) and hence
+ our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools use big corporations and
+ government to profile us and sell our data to third party advertisers. So I made this tool which uses adb aka Android Debugging Bridge 
+ to uninstall system apps including bloatware and other google and facebook tracking stuff and giving you a fresh clean slate while
+ retaining your device security model as bootloader is not touched. So You get great security + Decent privacy. So this tools allows
+ beginners and pro users to simply debloat and install foss apps on their device that respects their <strong> privacy </strong>
+ automatically.
  
 <h2> Requirements </h2>
  1. A Windows PC with adb installed. (refer to this video https://www.youtube.com/watch?v=26GI3z6tI3E )<br>
