@@ -37,7 +37,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 <h2> Will this work on Mac or Linux </h2>
  To be honest I don't have a mac but I do have a linux pc though I have not tested on it yet.
  If it works I will surely update the script here.
-
-<p style="color:red"> Only Samsung and Mi list are currently Supported </p>
+<br>
+<p> Only Samsung and Xiaomi Devices are currently Supported </p>
  
 <strong> Don't hesitate to open issues. Thank you </strong>
