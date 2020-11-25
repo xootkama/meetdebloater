@@ -9,8 +9,8 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 
 <h2> Why I created this tool ? </h2>
  In modern world we are constantly surrounded by the big five known as GAFAM (Google,Amazon.Facebook,Apple,Microsoft) and hence
- our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools use big corporations and
- government to profile us and sell our data to third party advertisers. So I made this tool which uses adb aka Android Debugging Bridge 
+ our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools which big corporations and
+ government use to profile us and sell our data to third party advertisers. So I made this tool which uses adb aka Android Debugging Bridge 
  to uninstall system apps including bloatware and other google and facebook tracking stuff and giving you a fresh clean slate while
  retaining your device security model as bootloader is not touched. So You get great security + Decent privacy. So this tools allows
  beginners and pro users to simply debloat and install foss apps on their device that respects their <strong> privacy </strong>
@@ -30,7 +30,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 5. simply double click on Debloater file e.g. samsung debloater, Mi Debloater etc.
 6. A command Prompt window will open and it will start automatically.
 7. Leave Phone for 5 minutes until the process completes.
-8. Enjoy your highly private samsung device with no google or samsung crap.
+8. Enjoy your highly private android device with no google or Device Manufacturer's crap.
 
 <strong> A Factory reset is not necessary but still recommended. If you perform factory reset then be sure to skip google login </strong>
 
