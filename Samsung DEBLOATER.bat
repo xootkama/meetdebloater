@@ -153,7 +153,7 @@ adb install "apk/files.apk" > CON
 adb install "apk/ddg.apk" > CON
 adb install "apk/clock.apk" > CON
 adb install "apk/store.apk" > CON
-adb install "apk/vlc.apk" > CON
+adb install "apk/vlc1.apk" > CON
 adb install "apk/mupdf.apk" > CON
 adb install "apk/calculator.apk" > CON
 adb install "apk/edslite.apk" > CON

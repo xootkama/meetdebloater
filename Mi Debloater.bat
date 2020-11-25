@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO ###### Manmeet Samsung Device Privacy Debloater ######
+ECHO ###### Manmeet Mi Device Privacy Debloater ######
 ECHO Please wait while I debloat your android device 
 adb devices
 ECHO #######################################
@@ -139,7 +139,7 @@ adb install "apk/files.apk" > CON
 adb install "apk/ddg.apk" > CON
 adb install "apk/clock.apk" > CON
 adb install "apk/store.apk" > CON
-adb install "apk/vlc.apk" > CON
+adb install "apk/vlc1.apk" > CON
 adb install "apk/libreoffice.apk" > CON
 adb install "apk/mupdf.apk" > CON
 adb install "apk/calculator.apk" > CON
