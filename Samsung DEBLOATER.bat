@@ -34,7 +34,6 @@ adb shell "pm uninstall --user 0 com.android.wallpapercropper" > CON
 adb shell "pm uninstall --user 0 com.android.providers.downloads.ui" > CON
 adb shell "pm uninstall --user 0 com.android.providers.partnerbookmarks" > CON
 adb shell "pm uninstall --user 0 com.android.sharedstoragebackup" > CON
-adb shell "pm uninstall --user 0 com.android.vpndialogs" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.sample.acquirechannels" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.service.socket" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.server" > CON
@@ -86,6 +85,19 @@ adb shell "pm uninstall --user 0 com.sec.android.app.clockpackage" > CON
 adb shell "pm uninstall --user 0 com.sec.android.app.myfiles" > CON
 adb shell "pm uninstall --user 0 com.samsung.android.app.contacts" > CON
 adb shell "pm uninstall --user 0 com.sec.android.app.camera" > CON
+adb shell "pm uninstall --user 0 com.microsoft.skydrive" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.bixby.agent" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.bixby.agent.dummy" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.app.spage" > CON
+adb shell "pm uninstall --user 0 com.samsung.systemui.bixby2" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.bixby.wakeup" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.bixby.service" > CON
+adb shell "pm uninstall --user 0 com.diotek.sec.lookup.dictionary" > CON
+adb shell "pm uninstall --user 0 com.microsoft.office.word" > CON
+adb shell "pm uninstall --user 0 com.microsoft.office.excel" > CON
+adb shell "pm uninstall --user 0 com.microsoft.office.powerpoint" > CON
+adb shell "pm uninstall --user 0 flipboard.boxer.app" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.spdf" > CON
 ECHO samsung Bloatware has been successfully removed
 ECHO #######################################
 ECHO   Removing Facebook Bloatware
@@ -99,6 +111,9 @@ ECHO
 ECHO ########################################
 ECHO   Removing Google Bloatware 
 ECHO ########################################
+adb shell "pm uninstall --user 0 com.google.android.gm" > CON
+adb shell "pm uninstall --user 0 com.android.chrome" > CON
+adb shell "pm uninstall --user 0 com.google.android.syncadapters.contacts" > CON
 adb shell "pm uninstall --user 0 com.google.android.partnersetup" > CON
 adb shell "pm uninstall --user 0 com.google.android.apps.maps" > CON
 adb shell "pm uninstall --user 0 com.google.android.apps.photos" > CON
@@ -142,6 +157,7 @@ adb install "apk/vlc.apk" > CON
 adb install "apk/mupdf.apk" > CON
 adb install "apk/calculator.apk" > CON
 adb install "apk/edslite.apk" > CON
+adb install "apk/netguard.apk" > CON
 ECHO done
 ECHO Okay, I guess the process is now completed
 PAUSE

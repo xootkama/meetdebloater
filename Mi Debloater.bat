@@ -96,6 +96,9 @@ ECHO
 ECHO ########################################
 ECHO   Removing Google Bloatware 
 ECHO ########################################
+adb shell "pm uninstall --user 0 com.google.android.gm" > CON
+adb shell "pm uninstall --user 0 com.android.chrome" > CON
+adb shell "pm uninstall --user 0 com.google.android.syncadapters.contacts" > CON
 adb shell "pm uninstall --user 0 com.google.android.partnersetup" > CON
 adb shell "pm uninstall --user 0 com.google.android.apps.maps" > CON
 adb shell "pm uninstall --user 0 com.google.android.apps.photos" > CON
@@ -140,6 +143,7 @@ adb install "apk/vlc.apk" > CON
 adb install "apk/libreoffice.apk" > CON
 adb install "apk/mupdf.apk" > CON
 adb install "apk/calculator.apk" > CON
+adb install "apk/netguard.apk" > CON
 adb install "apk/edslite.apk" > CON
 ECHO done
 ECHO Okay, I guess the process is now completed
