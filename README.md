@@ -27,7 +27,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 2. Extract it on your desktop.
 3. open a seperate window and type adb devices and click on always authorise on your android devices and click ok.
 4. close this cmd window and open the extracted folder.
-5. simply double click on Samsung Debloater file.
+5. simply double click on Debloater file e.g. samsung debloater, Mi Debloater etc.
 6. A command Prompt window will open and it will start automatically.
 7. Leave Phone for 5 minutes until the process completes.
 8. Enjoy your highly private samsung device with no google or samsung crap.
