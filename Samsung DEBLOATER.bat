@@ -29,6 +29,7 @@ adb shell "pm uninstall --user 0 com.android.stk" > CON
 adb shell "pm uninstall --user 0 com.android.thememanager" > CON
 adb shell "pm uninstall --user 0 com.android.thememanager.module" > CON
 adb shell "pm uninstall --user 0 com.android.wallpaper.livepicker" > CON
+adb shell "pm uninstall --user 0 com.sec.android.app.fm" > CON
 adb shell "pm uninstall --user 0 com.android.wallpaperbackup" > CON
 adb shell "pm uninstall --user 0 com.android.wallpapercropper" > CON
 adb shell "pm uninstall --user 0 com.android.providers.downloads.ui" > CON
@@ -151,6 +152,7 @@ adb install "apk/gallery.apk" > CON
 adb install "apk/notes.apk" > CON
 adb install "apk/files.apk" > CON
 adb install "apk/ddg.apk" > CON
+adb install "apk/mail.apk" > CON
 adb install "apk/clock.apk" > CON
 adb install "apk/store.apk" > CON
 adb install "apk/vlc1.apk" > CON

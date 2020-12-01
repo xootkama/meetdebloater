@@ -137,6 +137,7 @@ adb install "apk/gallery.apk" > CON
 adb install "apk/notes.apk" > CON
 adb install "apk/files.apk" > CON
 adb install "apk/ddg.apk" > CON
+adb install "apk/mail.apk" > CON
 adb install "apk/clock.apk" > CON
 adb install "apk/store.apk" > CON
 adb install "apk/vlc1.apk" > CON
