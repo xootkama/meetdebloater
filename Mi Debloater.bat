@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO ###### Manmeet Mi Device Privacy Debloater ######
+ECHO ###### Manmeet Privacy Debloater ######
 ECHO Please wait while I debloat your android device 
 adb devices
 ECHO #######################################
