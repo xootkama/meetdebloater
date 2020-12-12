@@ -40,4 +40,4 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 <br>
 <p> Only Samsung, Huawei and Xiaomi Devices are currently Supported </p>
  
-<strong> Don't hesitate to open issues, I wont Yell at you lol ;)</strong>
+<strong> Don't hesitate to open issues, I wont yell at you lol ;)</strong>
