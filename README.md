@@ -36,7 +36,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 
 <h2> Will this work on Mac or Linux </h2>
 <p>
- Yes, this script will work on linux with the help of a fork which you can get by <a href="git.redxen.eu/novaburst-dev/android-debloater">clicking Here</a>.
+ Yes, this script will work on linux with the help of a fork which you can get by going to this link : https://git.redxen.eu/novaburst-dev/android-debloater
  In case of Mac, we still need to do some tests.
 </p>
 <br/>
