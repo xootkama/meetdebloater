@@ -17,7 +17,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
  automatically.
  
 <h2> Requirements </h2>
- 1. A Windows PC with adb installed. (refer to this video https://www.youtube.com/watch?v=26GI3z6tI3E )<br>
+ 1. A Windows PC with adb installed. (refer to this video https://www.youtube.com/watch?v=26GI3z6tI3E ).<br>
  2. USB Debugging turned on in your android device <br>
  3. Little patience like about 5 minutes :) <br>
  
@@ -35,10 +35,12 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 <strong> A Factory reset is not necessary but still recommended. If you perform factory reset then be sure to skip google login </strong>
 
 <h2> Will this work on Mac or Linux </h2>
- To be honest I don't have a mac but I do have a linux pc though I have not tested on it yet.
- If it works I will surely update the script here.
-<br>
+<p>
+ Yes, this script will work on linux with the help of a fork which you can get by <a href="git.redxen.eu/novaburst-dev/android-debloater">clicking Here</a>.
+ In case of Mac, we still need to do some tests.
+</p>
+<br/>
 <p> Most of the Android Devices are Supported irrespective of Model or Android Version. If something goes wrong then 
 perform Factory Reset of your device. </p>
  
-<strong> Don't hesitate to open issues, I wont yell at you lol ;)</strong>
+
