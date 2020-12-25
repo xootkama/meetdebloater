@@ -224,6 +224,11 @@ adb shell "pm uninstall --user 0 com.gsn.android.tripeaks" > CON
 adb shell "pm uninstall --user 0 com.foxnextgames.m3" > CON
 adb shell "pm uninstall --user 0 com.audible.application" > CON
 adb shell "pm uninstall --user 0 com.microsoft.skydrive" > CON
+adb shell "pm uninstall --user 0 com.hiya.star" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.app.galaxyfinder" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.networkdiagnostic" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.svcagent" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.app.simplesharing" > CON
 ECHO samsung Bloatware has been successfully removed
 ECHO #######################################
 ECHO   Removing Facebook Bloatware
