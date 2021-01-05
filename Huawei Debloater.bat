@@ -106,7 +106,7 @@ adb install "apk/calculator.apk" > CON
 adb install "apk/edslite.apk" > CON
 adb install "apk/netguard.apk" > CON
 adb install "apk/newpipe.apk" > CON
-adb install "apk/bouncer.apk" > CON
+adb install "apk/Bouncer.apk" > CON
 adb install "apk/scanner2.apk" > CON
 adb kill-server > CON
 ECHO done
