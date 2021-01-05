@@ -12,9 +12,13 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
  our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools which big corporations and
  government use to profile us and sell our data to third party advertisers.
  <br/>
+ <br/>
  So I made this tool which uses adb aka Android Debugging Bridge 
  to uninstall system apps including bloatware and other google and facebook tracking stuff and giving you a fresh clean slate while
- retaining your device security model as bootloader is not touched. So You get great security + Decent privacy. So this tool allows
+ retaining your device security model as bootloader is not touched. So You get great security and Decent privacy.
+ <br />
+ <br />
+ So this tool allows
  beginners and pro users to simply debloat and install foss apps on their device that respects their <strong> privacy </strong>
  automatically.
  
