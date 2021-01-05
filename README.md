@@ -8,7 +8,7 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
  like simple dialer, simple camera, QKSMS and more.
 
 <h2> Why I created this tool :confused: ? </h2>
- In modern world we are constantly surrounded by the big five known as GAFAM (Google,Amazon.Facebook,Apple,Microsoft) and hence
+ In modern world we are constantly surrounded by the big five known as GAFAM and hence
  our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools which big corporations and
  government use to profile us and sell our data to third party advertisers.
  <br/>
