@@ -10,7 +10,9 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 <h2> Why I created this tool ? </h2>
  In modern world we are constantly surrounded by the big five known as GAFAM (Google,Amazon.Facebook,Apple,Microsoft) and hence
  our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools which big corporations and
- government use to profile us and sell our data to third party advertisers. So I made this tool which uses adb aka Android Debugging Bridge 
+ government use to profile us and sell our data to third party advertisers.
+ <br/>
+ So I made this tool which uses adb aka Android Debugging Bridge 
  to uninstall system apps including bloatware and other google and facebook tracking stuff and giving you a fresh clean slate while
  retaining your device security model as bootloader is not touched. So You get great security + Decent privacy. So this tool allows
  beginners and pro users to simply debloat and install foss apps on their device that respects their <strong> privacy </strong>
@@ -32,7 +34,15 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 7. Leave Phone for 5 minutes until the process completes.
 8. Enjoy your highly private android device with no google or Device Manufacturer's crap.
 
-<strong> A Factory reset is not necessary but still recommended. If you perform factory reset then be sure to skip google login </strong>
+<strong>Note: Please logout all google accounts from your phone before running this script or you might run into some problems as by 
+default find my device is enabled as device admin which doesn't allow google stuff to be uninstalled.</strong>
+
+<h2> Wait I want Google Services back for some reason </h2>
+<p>
+ Easy, We now have two Google reinstallers file. The full reinstaller will install all gapps back while the services only will install
+ play store, Google play services and Google services Framework i.e. Minimum apps require to regain google functionality on the 
+ device.
+</p>
 
 <h2> Will this work on Mac or Linux </h2>
 <p>
