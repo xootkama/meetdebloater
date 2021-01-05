@@ -50,9 +50,10 @@ default find my device is enabled as device admin which doesn't allow google stu
 
 <h2> Will this work on Linux :penguin:</h2>
 <p>
- Yes, there exist a linux port made by someone <a target="_blank" href="https://git.redxen.eu/novaburst-dev/android-debloater">click here</a>
+ Yes, there exist a linux port made by someone <a target="_blank" href="https://git.redxen.eu/novaburst-dev/android-debloater">click here.</a>
 </p>
-
+<br/>
+However, I am working on making my own linux port because above one might not be updated as fast as this main repo changes. So, Stay Tuned.
 <p> Most of the Android Devices are Supported irrespective of Model or Android Version. If something goes wrong then 
 perform Factory Reset of your device. </p>
  
