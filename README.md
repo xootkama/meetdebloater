@@ -1,4 +1,4 @@
-# MS Privacy Debloater
+# Meet Debloater
 A script that uninstall all Android bloatware and proprietary stock apps and replace them with foss alternatives using adb
 
 
@@ -44,10 +44,9 @@ default find my device is enabled as device admin which doesn't allow google stu
  device.
 </p>
 
-<h2> Will this work on Mac or Linux </h2>
+<h2> Will this work on Linux </h2>
 <p>
- Yes, this script will work on linux with the help of a fork which you can get by going to this link : https://git.redxen.eu/novaburst-dev/android-debloater
- In case of Mac, we still need to do some tests.
+ Yes, there exist a linux port made by someone: https://git.redxen.eu/novaburst-dev/android-debloater
 </p>
 <br/>
 <p> Most of the Android Devices are Supported irrespective of Model or Android Version. If something goes wrong then 
