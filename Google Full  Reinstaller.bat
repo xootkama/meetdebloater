@@ -9,5 +9,6 @@ adb install "apk/com.google.android.googlequicksearchbox.apk" > CON
 adb install "apk/com.google.android.youtube.apk" > CON
 adb install "apk/com.android.vending.apk" > CON
 adb install "apk/com.google.android.gsf.apk" > CON
-
+adb kill-server
 ECHO ###### DONE ########
+PAUSE
