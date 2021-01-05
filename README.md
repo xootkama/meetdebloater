@@ -1,13 +1,13 @@
-# Meet Debloater
+# Meet Debloater :scream:
 A script that uninstall all Android bloatware and proprietary stock apps and replace them with foss alternatives using adb
 
 
-<h2> So what does this tool does ? </h2>
+<h2> So what does this tool does :blush: ? </h2>
  This tool basically uses adb and uninstall all the bloatware found in Android devices including gapps and replace all of them
  with FOSS alternatives taken directly from F-Droid store.It also replace stock apps like phone,camera,messages etc with foss apps 
  like simple dialer, simple camera, QKSMS and more.
 
-<h2> Why I created this tool ? </h2>
+<h2> Why I created this tool :confused: ? </h2>
  In modern world we are constantly surrounded by the big five known as GAFAM (Google,Amazon.Facebook,Apple,Microsoft) and hence
  our online privacy is somewhere on the verge of extinction and our smartphones are those spy tools which big corporations and
  government use to profile us and sell our data to third party advertisers.
@@ -18,12 +18,12 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
  beginners and pro users to simply debloat and install foss apps on their device that respects their <strong> privacy </strong>
  automatically.
  
-<h2> Requirements </h2>
+<h2> Requirements :open_mouth:</h2>
  1. A Windows PC with adb installed. (refer to this video https://www.youtube.com/watch?v=26GI3z6tI3E ).<br>
  2. USB Debugging turned on in your android device <br>
  3. Little patience like about 5 minutes :) <br>
  
-<h2> Steps </h2>
+<h2> Steps :point_down:</h2>
 
 1. Download the entire zip file.
 2. Extract it on your desktop.
@@ -37,14 +37,14 @@ A script that uninstall all Android bloatware and proprietary stock apps and rep
 <strong>Note: Please logout all google accounts from your phone before running this script or you might run into some problems as by 
 default find my device is enabled as device admin which doesn't allow google stuff to be uninstalled.</strong>
 
-<h2> Wait I want Google Services back for some reason </h2>
+<h2> Wait I want Google Services back for some reason :innocent:</h2>
 <p>
  Easy, We now have two Google reinstallers file. The full reinstaller will install all gapps back while the services only will install
  play store, Google play services and Google services Framework i.e. Minimum apps require to regain google functionality on the 
  device.
 </p>
 
-<h2> Will this work on Linux </h2>
+<h2> Will this work on Linux :penguin:</h2>
 <p>
  Yes, there exist a linux port made by someone: https://git.redxen.eu/novaburst-dev/android-debloater
 </p>
