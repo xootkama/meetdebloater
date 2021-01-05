@@ -54,6 +54,7 @@ default find my device is enabled as device admin which doesn't allow google stu
 </p>
 <br/>
 However, I am working on making my own linux port because above one might not be updated as fast as this main repo changes. So, Stay Tuned.
+<br/>
 <p> Most of the Android Devices are Supported irrespective of Model or Android Version. If something goes wrong then 
 perform Factory Reset of your device. </p>
  
