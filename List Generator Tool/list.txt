@@ -1,0 +1,3 @@
+com.google.android.apps.restore
+com.google.android.apps.turbo
+com.google.android.setupwizard
