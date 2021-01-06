@@ -59,6 +59,16 @@ default find my device is enabled as device admin which doesn't allow google stu
  automatically :scream:.
 </p>
 
+<h2> Wait, I want Stock APPs Back :confused: </h2>
+
+<p>
+ Honestly, I literally caused a lot of mess in debloat files, so here is stock
+ app rebloat files. They will install stock apps like phone, messages, calculator,
+ calendar etc. This list is not fully completed and I need your contribution for
+ making this list complete. Do send package names with device, so I can append that
+ to my list. Thank You :pray:.
+</p>
+
 <h2> Will this work on Linux :penguin:</h2>
 <p>
  Yes, there exist a linux port made by someone <a target="_blank" href="https://git.redxen.eu/novaburst-dev/android-debloater">click here.</a>
