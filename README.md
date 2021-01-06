@@ -48,6 +48,17 @@ default find my device is enabled as device admin which doesn't allow google stu
  device.
 </p>
 
+<h2> Wait, what's List Generator Tool :confused: </h2>
+
+<p>
+ Well, I thought why not give everyone a powerful tool I created myself to help
+ others make their own debloating or rebloating scripts. So, there you go. The 
+ Tool uses Python 3 and will generate the adb commands for you. Just copy package
+ names seperated on each line and save that in list.txt file. Run the python script
+ and choose your desired options and Booom! you have adb commands generated 
+ automatically :scream:.
+</p>
+
 <h2> Will this work on Linux :penguin:</h2>
 <p>
  Yes, there exist a linux port made by someone <a target="_blank" href="https://git.redxen.eu/novaburst-dev/android-debloater">click here.</a>
