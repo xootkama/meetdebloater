@@ -69,5 +69,17 @@ However, I am working on making my own linux port because above one might not be
 <br/>
 <p> Most of the Android Devices are Supported irrespective of Model or Android Version. If something goes wrong then 
 perform Factory Reset of your device. </p>
+
+<h2> Please Contribute! :innocent:</h2>
+
+<p>
+ Even though I try hard to cover devices from all brands but still there might be
+ some cases where your smartphone will not be fully debloated or some crap may
+ stay there and this is due to fact that the package is not avaliable in the list.
+ So, to make our debloater scripts more powerful please open up Issues and share 
+ the device name, android  version, app name and package of that app which was not
+ removed from your device and I will add that to my list so that any one in future
+ may not suffer the same issue. Thank you very much :blush:.
+</p>
  
 
