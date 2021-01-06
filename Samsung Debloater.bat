@@ -36,6 +36,28 @@ adb shell "pm uninstall --user 0 com.android.providers.downloads.ui" > CON
 adb shell "pm uninstall --user 0 com.android.providers.partnerbookmarks" > CON
 adb shell "pm uninstall --user 0 com.android.sharedstoragebackup" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.sample.acquirechannels" > CON
+adb shell "pm uninstall --user 0 com.sec.location.nsflp2" > CON
+adb shell "pm uninstall --user 0 com.sec.android.app.setupwizardlegalprovider" > CON
+adb shell "pm uninstall --user 0 com.osp.app.signin" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.easysetup" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.rubin.app" > CON
+adb shell "pm uninstall --user 0 com.sec.android.app.samsungapps" > CON
+adb shell "pm uninstall --user 0 com.sec.android.app.billing" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.mobileservice" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.keyguardmgsupdator" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.spaymini" > CON
+adb shell "pm uninstall --user 0 com.sec.spp.push" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.setupindiaservicestnc" > CON
+adb shell "pm uninstall --user 0 com.mygalaxy" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.forest" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.fmm" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.mfi" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.dsms" > CON
+adb shell "pm uninstall --user 0 com.aura.oobe.samsung" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.app.omcagent" > CON
+adb shell "pm uninstall --user 0 com.android.location.fused" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.allshare.service.mediashare" > CON
+adb shell "pm uninstall --user 0 com.samsung.android.sdm.config" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.service.socket" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.server" > CON
 adb shell "pm uninstall --user 0 com.dsi.ant.plugins.antplus" > CON
@@ -242,6 +264,9 @@ ECHO
 ECHO ########################################
 ECHO   Removing Google Bloatware 
 ECHO ########################################
+adb shell "pm uninstall --user 0 com.google.android.apps.restore" > CON
+adb shell "pm uninstall --user 0 com.google.android.apps.turbo" > CON
+adb shell "pm uninstall --user 0 com.google.android.setupwizard" > CON
 adb shell "pm uninstall --user 0 com.google.android.gm" > CON
 adb shell "pm uninstall --user 0 com.android.chrome" > CON
 adb shell "pm uninstall --user 0 com.google.android.syncadapters.contacts" > CON
